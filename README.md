@@ -1,2 +1,2 @@
 # HistogramEqualization
-ECE_5470_assignment1
+Histogram equalization for gray scale image using opencv
